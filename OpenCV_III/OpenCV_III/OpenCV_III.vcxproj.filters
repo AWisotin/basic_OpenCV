@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="OpenCV_II.cpp">
+    <ClCompile Include="OpenCV_III.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
